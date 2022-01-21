@@ -1,0 +1,21 @@
+.h1{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.btn{
+    margin-top: 2rem;
+}
+/* .diceimg{
+    position: relative;
+    left: 7rem;
+} */
+
+.bd1{
+
+    background-color: #0680FF;
+
+}
+
+.bd2{
+    background-color: #FF8F20;
+}
